@@ -48,4 +48,5 @@ Postman API Docs: https://bikash.postman.co/workspace/ExpenseTrack~e55c5808-55f9
 
 Screenshots:
 
+<img width="1448" height="820" alt="image" src="https://github.com/user-attachments/assets/82ebe3df-f22c-48eb-bb88-0ecdf7a1f045" />
 
