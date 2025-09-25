@@ -15,7 +15,7 @@ transactionRouter.post("/add", async (req, res) => {
     }
 })
 
-transactionRouter.get("/transactions", async (req, res) => {
+transactionRouter.get("/", async (req, res) => {
     try {
         const AllCredit = await TransactionModel.find({ Type: "Credit" })
         const AllDebit = await TransactionModel.find({ Type: "Debit" })
