@@ -37,7 +37,7 @@ npm i
 
 5. Start the server:-
 
-``
+```
 nodemon app.js
 
 ```
