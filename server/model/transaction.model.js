@@ -8,6 +8,8 @@ const transactionSchema = new mongoose.Schema({
 
 }, { timestamps: true });
 
+
+
 const TransactionModel = mongoose.model("transaction", transactionSchema);
 module.exports = { TransactionModel };
 
